@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
 		"autobahn": "*",
-    "lodash": "4.17.4"
+    "lodash": "4.17.21"
 	},
   "description": "A data downloader using the Poloniex API to download data",
   "devDependencies": {
